@@ -1,0 +1,8 @@
+Showdown TODO:
+IMPORTANT: The visuals are wrong, type image doesn't change, and you can't see stats differently even after changing. Find out?
+
+Test making custom learnset file (failed test by making any gen) (should work)
+
+try more with pokedex.ts (should work)
+
+Paste over output.json into showdown as learnset.ts
