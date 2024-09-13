@@ -1,0 +1,21 @@
+
+Error: Format "[Gen 3] FBIRERED V1" requires nonexistent mod: 'gen3frlg'
+    at DexFormats.load (F:\D skrivebord\Pokemon\Hacking\PokemonShowdown\pokemon-showdown\dist\sim\dex-formats.js:394:15)
+    at ModdedDex.includeFormats (F:\D skrivebord\Pokemon\Hacking\PokemonShowdown\pokemon-showdown\dist\sim\dex.js:534:18)
+    at ModdedDex.loadData (F:\D skrivebord\Pokemon\Hacking\PokemonShowdown\pokemon-showdown\dist\sim\dex.js:488:12)
+    at ModdedDex.includeData (F:\D skrivebord\Pokemon\Hacking\PokemonShowdown\pokemon-showdown\dist\sim\dex.js:455:10)
+    at Object.<anonymous> (F:\D skrivebord\Pokemon\Hacking\PokemonShowdown\pokemon-showdown\dist\server\team-validator-async.js:96:42)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Module._load (node:internal/modules/cjs/loader:958:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+
+Error: Format "[Gen 3] FBIRERED V1" requires nonexistent mod: 'gen3frlg'
+    at DexFormats.load (F:\D skrivebord\Pokemon\Hacking\PokemonShowdown\pokemon-showdown\sim\dex-formats.ts:569:43)
+    at DexFormats.all (F:\D skrivebord\Pokemon\Hacking\PokemonShowdown\pokemon-showdown\sim\dex-formats.ts:648:8)
+    at GlobalRoomState.get formatListText [as formatListText] (F:\D skrivebord\Pokemon\Hacking\PokemonShowdown\pokemon-showdown\server\rooms.ts:1463:36)
+    at GlobalRoomState.handleConnect (F:\D skrivebord\Pokemon\Hacking\PokemonShowdown\pokemon-showdown\server\rooms.ts:1735:80)
+    at Object.socketConnect (F:\D skrivebord\Pokemon\Hacking\PokemonShowdown\pokemon-showdown\server\users.ts:1668:15)
+    at Object.onSpawn (F:\D skrivebord\Pokemon\Hacking\PokemonShowdown\pokemon-showdown\server\sockets.ts:34:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)

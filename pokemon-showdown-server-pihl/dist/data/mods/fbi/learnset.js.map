@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../data/mods/fbi/learnset.ts"],
+  "sourcesContent": ["export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTable = {\r\n\tbulbasaur: {\r\n\t\tlearnset: {\r\n\t\t\ttackle: [\"3L1\"],\r\n\t\t\tflamethrower: [\"3L1\"]\r\n\t\t}\r\n\t}\r\n};"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,YAAwE;AAAA,EACpF,WAAW;AAAA,IACV,UAAU;AAAA,MACT,QAAQ,CAAC,KAAK;AAAA,MACd,cAAc,CAAC,KAAK;AAAA,IACrB;AAAA,EACD;AACD;",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../../../../data/mods/gen1rbycap/formats-data.ts"],
+  "sourcesContent": ["export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormatsDataTable = {\n\tcorupcake: {\n\t\ttier: \"OU\",\n\t},\n\tgargoyle: {\n\t\ttier: \"OU\",\n\t},\n\tphantom: {\n\t\ttier: \"OU\",\n\t},\n\tmandrelec: {\n\t\ttier: \"OU\",\n\t},\n\tpineguin: {\n\t\ttier: \"OU\",\n\t},\n};\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;AAAO,MAAM,cAAgF;AAAA,EAC5F,WAAW;AAAA,IACV,MAAM;AAAA,EACP;AAAA,EACA,UAAU;AAAA,IACT,MAAM;AAAA,EACP;AAAA,EACA,SAAS;AAAA,IACR,MAAM;AAAA,EACP;AAAA,EACA,WAAW;AAAA,IACV,MAAM;AAAA,EACP;AAAA,EACA,UAAU;AAAA,IACT,MAAM;AAAA,EACP;AACD;",
+  "names": []
+}
